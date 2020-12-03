@@ -5,6 +5,7 @@
       <RowTotalIncomeExpense/>
       <FormInput/>
 
+
       <v-container class="d-flex justify-space-around">
         <v-col cols="6">
           <div class="text-h5 text-center">Income</div>

@@ -1,6 +1,4 @@
-# my-todo-list
-
-
+# my-todo-lis
 
 ## Project setup
 ```
